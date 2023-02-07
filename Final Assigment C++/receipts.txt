@@ -1,0 +1,2 @@
+Customer:               Meat:                 Weight in kg:              Cost$:
+Marco                   c                  12.00kg                    65.88$
